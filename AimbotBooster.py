@@ -1,4 +1,5 @@
 # https://github.com/KianBrose/Image-Recognition-Botting-Tutorial
+# https://github.com/KianBrose/Image-Recognition-Botting-Tutorial/blob/master/aimbooster.py
 # How to create an enviroment variable: py -m venv variableName
 # And then you can access the venv inside VS Code and install other pkgs and use OpenCV: \variableName\Scrips\Activate
 
