@@ -2,6 +2,8 @@
 # How to create an enviroment variable: py -m venv variableName
 # And then you can access the venv inside VS Code and install other pkgs and use OpenCV: \variableName\Scrips\Activate
 
+# http://www.aimbooster.com/
+
 from pyautogui import *
 import pyautogui
 import time
